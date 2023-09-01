@@ -1,0 +1,24 @@
+// Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
+// Print the report card of the student (You can make it look nice by using some keyboard symbols )
+
+let name = "Biswadip Sihi";
+let school = "Bhagwanpur High School";
+let grade = "8";
+let section = "A";
+let rollno = "19";
+let mathematics = 85;
+let english = 75;
+let computer = 78;
+
+console.log("╔═══════════════════════════════════════════╗ ");
+console.log("║               report card                 ║");
+console.log("╠═══════════════════════════════════════════╣");
+console.log("║   Name        -  "+ name + "            ║");
+console.log("║   School      -  "+ school + "   ║");
+console.log("║   Grade       -  "+ grade + "                        ║");
+console.log("║   Section     -  "+ section + "                        ║");
+console.log("║   Roll No     -  "+ rollno + "                       ║");
+console.log("║   Mathematics -  "+ mathematics + "                       ║");
+console.log("║   English     -  "+ english + "                       ║");
+console.log("║   Computer    -  "+ computer + "                       ║");
+console.log("╚═══════════════════════════════════════════╝");
