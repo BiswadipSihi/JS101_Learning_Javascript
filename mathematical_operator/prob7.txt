@@ -1,0 +1,6 @@
+function findX(X) {
+    // Write code here
+    let ans = X * 3 ;
+    console.log(ans + 10);
+    
+}
